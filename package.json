@@ -1,0 +1,10 @@
+{
+  "name": "kristjanpikk.ee",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Kristjan Pikk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristjanpikk/kristjanpikk.ee"
+  },
+}
